@@ -1,0 +1,527 @@
+[
+    {
+        "_id": {
+            "$oid": "65c66dd82d7a74f4f01444ab"
+        },
+        "butcher_id": {
+            "$oid": "65c22e54b15eba25e8773814"
+        },
+        "products": [
+            {
+                "product_id": {
+                    "$oid": "65c668dc2d7a74f4f014449d"
+                }
+            },
+            {
+                "product_id": {
+                    "$oid": "65c668ed2d7a74f4f014449f"
+                }
+            },
+            {
+                "product_id": {
+                    "$oid": "65c668f82d7a74f4f01444a1"
+                }
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65c66de52d7a74f4f01444ad"
+        },
+        "butcher_id": {
+            "$oid": "65c22e54b15eba25e8773815"
+        },
+        "products": [
+            {
+                "product_id": {
+                    "$oid": "65c668dc2d7a74f4f014449d"
+                }
+            },
+            {
+                "product_id": {
+                    "$oid": "65c668ed2d7a74f4f014449f"
+                }
+            },
+            {
+                "product_id": {
+                    "$oid": "65c668f82d7a74f4f01444a1"
+                }
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65c66df12d7a74f4f01444af"
+        },
+        "butcher_id": {
+            "$oid": "65c22e54b15eba25e8773816"
+        },
+        "products": [
+            {
+                "product_id": {
+                    "$oid": "65c668dc2d7a74f4f014449d"
+                }
+            },
+            {
+                "product_id": {
+                    "$oid": "65c668ed2d7a74f4f014449f"
+                }
+            },
+            {
+                "product_id": {
+                    "$oid": "65c668f82d7a74f4f01444a1"
+                }
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65c66dfc2d7a74f4f01444b1"
+        },
+        "butcher_id": {
+            "$oid": "65c22e54b15eba25e8773817"
+        },
+        "products": [
+            {
+                "product_id": {
+                    "$oid": "65c668dc2d7a74f4f014449d"
+                }
+            },
+            {
+                "product_id": {
+                    "$oid": "65c668ed2d7a74f4f014449f"
+                }
+            },
+            {
+                "product_id": {
+                    "$oid": "65c668f82d7a74f4f01444a1"
+                }
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65c66e042d7a74f4f01444b3"
+        },
+        "butcher_id": {
+            "$oid": "65c22e54b15eba25e8773818"
+        },
+        "products": [
+            {
+                "product_id": {
+                    "$oid": "65c668dc2d7a74f4f014449d"
+                }
+            },
+            {
+                "product_id": {
+                    "$oid": "65c668ed2d7a74f4f014449f"
+                }
+            },
+            {
+                "product_id": {
+                    "$oid": "65c668f82d7a74f4f01444a1"
+                }
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65c66e102d7a74f4f01444b5"
+        },
+        "butcher_id": {
+            "$oid": "65c22e54b15eba25e8773819"
+        },
+        "products": [
+            {
+                "product_id": {
+                    "$oid": "65c668dc2d7a74f4f014449d"
+                }
+            },
+            {
+                "product_id": {
+                    "$oid": "65c668ed2d7a74f4f014449f"
+                }
+            },
+            {
+                "product_id": {
+                    "$oid": "65c668f82d7a74f4f01444a1"
+                }
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65c66e182d7a74f4f01444b7"
+        },
+        "butcher_id": {
+            "$oid": "65c22e54b15eba25e877381a"
+        },
+        "products": [
+            {
+                "product_id": {
+                    "$oid": "65c668dc2d7a74f4f014449d"
+                }
+            },
+            {
+                "product_id": {
+                    "$oid": "65c668ed2d7a74f4f014449f"
+                }
+            },
+            {
+                "product_id": {
+                    "$oid": "65c668f82d7a74f4f01444a1"
+                }
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65c66e222d7a74f4f01444b9"
+        },
+        "butcher_id": {
+            "$oid": "65c22e54b15eba25e877381b"
+        },
+        "products": [
+            {
+                "product_id": {
+                    "$oid": "65c668dc2d7a74f4f014449d"
+                }
+            },
+            {
+                "product_id": {
+                    "$oid": "65c668ed2d7a74f4f014449f"
+                }
+            },
+            {
+                "product_id": {
+                    "$oid": "65c668f82d7a74f4f01444a1"
+                }
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65c66e2a2d7a74f4f01444bb"
+        },
+        "butcher_id": {
+            "$oid": "65c22e54b15eba25e877381c"
+        },
+        "products": [
+            {
+                "product_id": {
+                    "$oid": "65c668dc2d7a74f4f014449d"
+                }
+            },
+            {
+                "product_id": {
+                    "$oid": "65c668ed2d7a74f4f014449f"
+                }
+            },
+            {
+                "product_id": {
+                    "$oid": "65c668f82d7a74f4f01444a1"
+                }
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65c66e332d7a74f4f01444bd"
+        },
+        "butcher_id": {
+            "$oid": "65c22e54b15eba25e877381d"
+        },
+        "products": [
+            {
+                "product_id": {
+                    "$oid": "65c668dc2d7a74f4f014449d"
+                }
+            },
+            {
+                "product_id": {
+                    "$oid": "65c668ed2d7a74f4f014449f"
+                }
+            },
+            {
+                "product_id": {
+                    "$oid": "65c668f82d7a74f4f01444a1"
+                }
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65c66e3c2d7a74f4f01444bf"
+        },
+        "butcher_id": {
+            "$oid": "65c22e54b15eba25e877381e"
+        },
+        "products": [
+            {
+                "product_id": {
+                    "$oid": "65c668dc2d7a74f4f014449d"
+                }
+            },
+            {
+                "product_id": {
+                    "$oid": "65c668ed2d7a74f4f014449f"
+                }
+            },
+            {
+                "product_id": {
+                    "$oid": "65c668f82d7a74f4f01444a1"
+                }
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65c66e452d7a74f4f01444c1"
+        },
+        "butcher_id": {
+            "$oid": "65c22e54b15eba25e877381f"
+        },
+        "products": [
+            {
+                "product_id": {
+                    "$oid": "65c668dc2d7a74f4f014449d"
+                }
+            },
+            {
+                "product_id": {
+                    "$oid": "65c668ed2d7a74f4f014449f"
+                }
+            },
+            {
+                "product_id": {
+                    "$oid": "65c668f82d7a74f4f01444a1"
+                }
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65c66e452d7a74f4f01444c1"
+        },
+        "butcher_id": {
+            "$oid": "65c22e54b15eba25e877381f"
+        },
+        "products": [
+            {
+                "product_id": {
+                    "$oid": "65c668dc2d7a74f4f014449d"
+                }
+            },
+            {
+                "product_id": {
+                    "$oid": "65c668ed2d7a74f4f014449f"
+                }
+            },
+            {
+                "product_id": {
+                    "$oid": "65c668f82d7a74f4f01444a1"
+                }
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65c66e5a2d7a74f4f01444c5"
+        },
+        "butcher_id": {
+            "$oid": "65c22e54b15eba25e8773821"
+        },
+        "products": [
+            {
+                "product_id": {
+                    "$oid": "65c668dc2d7a74f4f014449d"
+                }
+            },
+            {
+                "product_id": {
+                    "$oid": "65c668ed2d7a74f4f014449f"
+                }
+            },
+            {
+                "product_id": {
+                    "$oid": "65c668f82d7a74f4f01444a1"
+                }
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65c66e622d7a74f4f01444c7"
+        },
+        "butcher_id": {
+            "$oid": "65c22e54b15eba25e8773822"
+        },
+        "products": [
+            {
+                "product_id": {
+                    "$oid": "65c668dc2d7a74f4f014449d"
+                }
+            },
+            {
+                "product_id": {
+                    "$oid": "65c668ed2d7a74f4f014449f"
+                }
+            },
+            {
+                "product_id": {
+                    "$oid": "65c668f82d7a74f4f01444a1"
+                }
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65c66e6a2d7a74f4f01444c9"
+        },
+        "butcher_id": {
+            "$oid": "65c22e54b15eba25e8773823"
+        },
+        "products": [
+            {
+                "product_id": {
+                    "$oid": "65c668dc2d7a74f4f014449d"
+                }
+            },
+            {
+                "product_id": {
+                    "$oid": "65c668ed2d7a74f4f014449f"
+                }
+            },
+            {
+                "product_id": {
+                    "$oid": "65c668f82d7a74f4f01444a1"
+                }
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65c66e732d7a74f4f01444cb"
+        },
+        "butcher_id": {
+            "$oid": "65c22e54b15eba25e8773824"
+        },
+        "products": [
+            {
+                "product_id": {
+                    "$oid": "65c668dc2d7a74f4f014449d"
+                }
+            },
+            {
+                "product_id": {
+                    "$oid": "65c668ed2d7a74f4f014449f"
+                }
+            },
+            {
+                "product_id": {
+                    "$oid": "65c668f82d7a74f4f01444a1"
+                }
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65c66e732d7a74f4f01444cb"
+        },
+        "butcher_id": {
+            "$oid": "65c22e54b15eba25e8773824"
+        },
+        "products": [
+            {
+                "product_id": {
+                    "$oid": "65c668dc2d7a74f4f014449d"
+                }
+            },
+            {
+                "product_id": {
+                    "$oid": "65c668ed2d7a74f4f014449f"
+                }
+            },
+            {
+                "product_id": {
+                    "$oid": "65c668f82d7a74f4f01444a1"
+                }
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65c66e7c2d7a74f4f01444cd"
+        },
+        "butcher_id": {
+            "$oid": "65c22e54b15eba25e8773825"
+        },
+        "products": [
+            {
+                "product_id": {
+                    "$oid": "65c668dc2d7a74f4f014449d"
+                }
+            },
+            {
+                "product_id": {
+                    "$oid": "65c668ed2d7a74f4f014449f"
+                }
+            },
+            {
+                "product_id": {
+                    "$oid": "65c668f82d7a74f4f01444a1"
+                }
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65c66e852d7a74f4f01444cf"
+        },
+        "butcher_id": {
+            "$oid": "65c22e54b15eba25e8773826"
+        },
+        "products": [
+            {
+                "product_id": {
+                    "$oid": "65c668dc2d7a74f4f014449d"
+                }
+            },
+            {
+                "product_id": {
+                    "$oid": "65c668ed2d7a74f4f014449f"
+                }
+            },
+            {
+                "product_id": {
+                    "$oid": "65c668f82d7a74f4f01444a1"
+                }
+            }
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "65c66e8e2d7a74f4f01444d1"
+        },
+        "butcher_id": {
+            "$oid": "65c22e54b15eba25e8773827"
+        },
+        "products": [
+            {
+                "product_id": {
+                    "$oid": "65c668dc2d7a74f4f014449d"
+                }
+            },
+            {
+                "product_id": {
+                    "$oid": "65c668ed2d7a74f4f014449f"
+                }
+            },
+            {
+                "product_id": {
+                    "$oid": "65c668f82d7a74f4f01444a1"
+                }
+            }
+        ]
+    }
+]

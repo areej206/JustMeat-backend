@@ -1,0 +1,22 @@
+[
+    {
+        "_id": {
+            "$oid": "65c68295a8adbe8e4125e751"
+        },
+        "firstname": "John",
+        "lastname": "Doe",
+        "password": "hashed_password_here",
+        "email": "john.doe@example.com",
+        "dob": "1985-10-20"
+    },
+    {
+        "_id": {
+            "$oid": "65c682a4a8adbe8e4125e753"
+        },
+        "firstname": "Jane",
+        "lastname": "Smith",
+        "password": "hashed_password_here",
+        "email": "jane.smith@example.com",
+        "dob": "1995-02-28"
+    }
+]

@@ -1,0 +1,266 @@
+[
+    {
+        "_id": {
+            "$oid": "65c6cba94b143b8f6ac93174"
+        },
+        "username": "business1",
+        "password": "hashed_password_here",
+        "email": "business1@example.com",
+        "contact": "0123456789",
+        "butcher_id": {
+            "$oid": "65c22e54b15eba25e8773814"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "65c6cba94b143b8f6ac93175"
+        },
+        "username": "business2",
+        "password": "hashed_password_here",
+        "email": "business2@example.com",
+        "contact": "0123456789",
+        "butcher_id": {
+            "$oid": "65c22e54b15eba25e8773815"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "65c6cba94b143b8f6ac93176"
+        },
+        "username": "business3",
+        "password": "hashed_password_here",
+        "email": "business123@example.com",
+        "contact": "0123456789",
+        "butcher_id": {
+            "$oid": "65c22e54b15eba25e8773816"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "65c6cba94b143b8f6ac93177"
+        },
+        "username": "business4",
+        "password": "hashed_password_here",
+        "email": "business4@example.com",
+        "contact": "0123456789",
+        "butcher_id": {
+            "$oid": "65c22e54b15eba25e8773817"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "65c6cba94b143b8f6ac93178"
+        },
+        "username": "business5",
+        "password": "hashed_password_here",
+        "email": "business5@example.com",
+        "contact": "0123456789",
+        "butcher_id": {
+            "$oid": "65c22e54b15eba25e8773818"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "65c6cba94b143b8f6ac9317a"
+        },
+        "username": "business6",
+        "password": "hashed_password_here",
+        "email": "business6@example.com",
+        "contact": "0123456789",
+        "butcher_id": {
+            "$oid": "65c22e54b15eba25e877381a"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "65c6cba94b143b8f6ac9317b"
+        },
+        "username": "business7",
+        "password": "hashed_password_here",
+        "email": "business7@example.com",
+        "contact": "0123456789",
+        "butcher_id": {
+            "$oid": "65c22e54b15eba25e877381b"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "65c6cba94b143b8f6ac9317c"
+        },
+        "username": "business8",
+        "password": "hashed_password_here",
+        "email": "business8@example.com",
+        "contact": "0123456789",
+        "butcher_id": {
+            "$oid": "65c22e54b15eba25e877381c"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "65c6cba94b143b8f6ac9317c"
+        },
+        "username": "business8",
+        "password": "hashed_password_here",
+        "email": "business8@example.com",
+        "contact": "0123456789",
+        "butcher_id": {
+            "$oid": "65c22e54b15eba25e877381c"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "65c6cba94b143b8f6ac9317d"
+        },
+        "username": "business9",
+        "password": "hashed_password_here",
+        "email": "business9@example.com",
+        "contact": "0123456789",
+        "butcher_id": {
+            "$oid": "65c22e54b15eba25e877381d"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "65c6cba94b143b8f6ac9317e"
+        },
+        "username": "business10",
+        "password": "hashed_password_here",
+        "email": "business10@example.com",
+        "contact": "0123456789",
+        "butcher_id": {
+            "$oid": "65c22e54b15eba25e877381e"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "65c6cba94b143b8f6ac9317f"
+        },
+        "username": "business11",
+        "password": "hashed_password_here",
+        "email": "business11@example.com",
+        "contact": "0123456789",
+        "butcher_id": {
+            "$oid": "65c22e54b15eba25e877381f"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "65c6cba94b143b8f6ac9317f"
+        },
+        "username": "business11",
+        "password": "hashed_password_here",
+        "email": "business11@example.com",
+        "contact": "0123456789",
+        "butcher_id": {
+            "$oid": "65c22e54b15eba25e877381f"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "65c6cba94b143b8f6ac93181"
+        },
+        "username": "business13",
+        "password": "hashed_password_here",
+        "email": "business13@example.com",
+        "contact": "0123456789",
+        "butcher_id": {
+            "$oid": "65c22e54b15eba25e8773821"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "65c6cba94b143b8f6ac93182"
+        },
+        "username": "business14",
+        "password": "hashed_password_here",
+        "email": "business14@example.com",
+        "contact": "0123456789",
+        "butcher_id": {
+            "$oid": "65c22e54b15eba25e8773822"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "65c6cba94b143b8f6ac93183"
+        },
+        "username": "business15",
+        "password": "hashed_password_here",
+        "email": "business15@example.com",
+        "contact": "0123456789",
+        "butcher_id": {
+            "$oid": "65c22e54b15eba25e8773823"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "65c6cba94b143b8f6ac93184"
+        },
+        "username": "business16",
+        "password": "hashed_password_here",
+        "email": "business16@example.com",
+        "contact": "0123456789",
+        "butcher_id": {
+            "$oid": "65c22e54b15eba25e8773824"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "65c6cba94b143b8f6ac93185"
+        },
+        "username": "business17",
+        "password": "hashed_password_here",
+        "email": "business17@example.com",
+        "contact": "0123456789",
+        "butcher_id": {
+            "$oid": "65c22e54b15eba25e8773825"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "65c6cba94b143b8f6ac93186"
+        },
+        "username": "business18",
+        "password": "hashed_password_here",
+        "email": "business18@example.com",
+        "contact": "0123456789",
+        "butcher_id": {
+            "$oid": "65c22e54b15eba25e8773826"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "65c6cba94b143b8f6ac93187"
+        },
+        "username": "business19",
+        "password": "hashed_password_here",
+        "email": "business19@example.com",
+        "contact": "0123456789",
+        "butcher_id": {
+            "$oid": "65c22e54b15eba25e8773827"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "65c6cba94b143b8f6ac93188"
+        },
+        "username": "business20",
+        "password": "hashed_password_here",
+        "email": "business20@example.com",
+        "contact": "0123456789",
+        "butcher_id": {
+            "$oid": "65c22e54b15eba25e8773828"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "65c6cba94b143b8f6ac93179"
+        },
+        "username": "business21",
+        "password": "hashed_password_here",
+        "email": "business21@example.com",
+        "contact": "0123456789",
+        "butcher_id": {
+            "$oid": "65c22e54b15eba25e8773819"
+        }
+    }
+]

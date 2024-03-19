@@ -1,0 +1,35 @@
+[
+    {
+        "_id": {
+            "$oid": "65c668dc2d7a74f4f014449d"
+        },
+        "name": "Chicken Mince",
+        "category": "Chicken",
+        "description": "Premium quality halal chicken",
+        "price": 5.99,
+        "quantity": 30,
+        "review_id": {
+            "$oid": "65c8f0ec93813b0a7abae041"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "65c668ed2d7a74f4f014449f"
+        },
+        "name": "Tender Halal Lamb",
+        "category": "Lamb",
+        "description": "High-quality halal lamb",
+        "price": 9.99,
+        "quantity": 30
+    },
+    {
+        "_id": {
+            "$oid": "65c668f82d7a74f4f01444a1"
+        },
+        "name": "Premium Halal Beef",
+        "category": "Beef",
+        "description": "Top-grade halal beef",
+        "price": 12.99,
+        "quantity": 20
+    }
+]

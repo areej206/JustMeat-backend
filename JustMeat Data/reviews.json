@@ -1,0 +1,30 @@
+[
+    {
+        "_id": {
+            "$oid": "65c8f0ec93813b0a7abae041"
+        },
+        "user_id": {
+            "$oid": "65c68295a8adbe8e4125e751"
+        },
+        "rating": 5,
+        "comment": "This product exceeded my expectations.",
+        "date": "2024-02-09T00:00:00Z",
+        "product_id": {
+            "$oid": "65c668dc2d7a74f4f014449d"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "65c8f0ec93813b0a7abae042"
+        },
+        "user_id": {
+            "$oid": "65c682a4a8adbe8e4125e753"
+        },
+        "rating": 4,
+        "comment": "Great service from the butcher!",
+        "date": "2024-02-10T00:00:00Z",
+        "butcher_id": {
+            "$oid": "65c22e54b15eba25e8773814"
+        }
+    }
+]
